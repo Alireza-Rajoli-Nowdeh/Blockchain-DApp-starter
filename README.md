@@ -14,18 +14,29 @@ Welcome! This project is a complete starter template for learning how to develop
 
 ```bash
 blockchain-dapp-starter/
-├── remix-version/             # Smart contract for Remix IDE (easy start)
+├── remix-version/
 │   └── HelloWorld.sol
-├── truffle-version/           # Full Truffle + Ganache project
+├── truffle-version/
 │   ├── contracts/
 │   │   └── HelloWorld.sol
 │   ├── migrations/
 │   │   └── 1_deploy_contracts.js
 │   ├── test/
+│   │   └── helloWorld.test.js
 │   ├── truffle-config.js
-│   └── README.md              # Specific Truffle instructions
-├── frontend/                  # Optional UI using Web3.js
-│   └── index.html
-├── screenshots/               # Images for documentation
-├── README.md                  # You're reading it!
+│   ├── package.json   # if needed
+│   └── README.md
+├── frontend/
+│   ├── index.html
+│   ├── script.js
+│   ├── package.json   # if needed
+├── screenshots/
+│   ├── remix-deploy.png
+│   ├── ganache.png
+│   └── frontend-demo.png
+├── .gitignore
+├── LICENSE
+├── README.md
+└── package.json       # if you want a root one for scripts
+
 └── LICENSE
