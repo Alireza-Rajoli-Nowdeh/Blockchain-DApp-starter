@@ -1,12 +1,11 @@
-# 🧱 Blockchain DApp Starter (Solidity + Remix IDE + Truffle + Ganache)
+# Blockhain application development using solidity + RemixIDE + ganache/Truffle
 
-Welcome! This project is a complete starter template for learning how to develop decentralized applications (DApps) on the Ethereum blockchain. It includes:
+Welcome!we’ll actually build and test smart contracts, run a local Ethereum blockchain, and see how everything works together. It includes:
 
 - ✅ **Solidity** for writing smart contracts  
 - ✅ **Remix IDE** for quick in-browser development  
 - ✅ **Truffle Framework** for compiling, testing, and deploying contracts  
 - ✅ **Ganache** for running a local blockchain  
-- ✅ **Web3.js (optional)** frontend to interact with contracts
 
 ---
 
